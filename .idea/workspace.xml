@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68257086-6b73-4e4d-919d-1b72e4fbb835" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MonitoringProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terraform/ec2.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terraform/eks.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terraform/iam-grafana.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terraform/iam-oidc.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terraform/iam-prometheus.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terraform/igw.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terraform/natgateway.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terraform/nodes.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terraform/prometheus.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terraform/provider.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terraform/routetable.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terraform/subnets.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terraform/vpc.tf" afterDir="false" />
-    </list>
+    <list default="true" id="68257086-6b73-4e4d-919d-1b72e4fbb835" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
