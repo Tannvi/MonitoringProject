@@ -21,6 +21,21 @@ resource "aws_iam_role_policy_attachment" "demo_amazon_eks_cluster_policy" {
   role       = aws_iam_role.demo.name
 }
 
+resource "aws_eks_cluster" "demo" {
+  name     = "demo"
+  role_arn = aws_iam_role.demo.arn
+
+  vpc_config {
+    subnet_ids = [
+      aws_subnet.private_us_east_1a.id,
+      aws_subnet.private_us_east_1b.id,
+      aws_subnet.public_us_east_1a.id,
+      aws_subnet.public_us_east_1b.id
+    ]
+  }
+
+  depends_on = [aws_iam_role_policy_attachment.demo_amazon_eks_cluster_policy]
+}
 
 
 

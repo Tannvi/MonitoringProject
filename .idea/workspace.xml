@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68257086-6b73-4e4d-919d-1b72e4fbb835" name="Changes" comment="" />
+    <list default="true" id="68257086-6b73-4e4d-919d-1b72e4fbb835" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/terraform/ec2.tf" beforeDir="false" afterPath="$PROJECT_DIR$/terraform/ec2.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/terraform/eks.tf" beforeDir="false" afterPath="$PROJECT_DIR$/terraform/eks.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/terraform/iam-grafana.tf" beforeDir="false" afterPath="$PROJECT_DIR$/terraform/iam-grafana.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/terraform/iam-oidc.tf" beforeDir="false" afterPath="$PROJECT_DIR$/terraform/iam-oidc.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/terraform/iam-prometheus.tf" beforeDir="false" afterPath="$PROJECT_DIR$/terraform/iam-prometheus.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/terraform/nodes.tf" beforeDir="false" afterPath="$PROJECT_DIR$/terraform/nodes.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/terraform/prometheus.tf" beforeDir="false" afterPath="$PROJECT_DIR$/terraform/prometheus.tf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
