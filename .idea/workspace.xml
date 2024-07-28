@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68257086-6b73-4e4d-919d-1b72e4fbb835" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kubernetes/cadvisor/cluster-role-binding.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kubernetes/cadvisor/cluster-role.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kubernetes/cadvisor/daemonset.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kubernetes/cadvisor/service-account.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kubernetes/cadvisor/service-monitor.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kubernetes/cadvisor/service.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="68257086-6b73-4e4d-919d-1b72e4fbb835" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
